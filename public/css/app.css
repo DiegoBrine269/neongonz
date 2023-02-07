@@ -1,0 +1,16 @@
+.table-container {
+    overflow:scroll;
+    max-width: 90%;
+    margin: 0 auto;
+}
+
+/* Acciones */
+.fa-solid {
+    font-size: 1.8rem;
+    margin-right: 5px;
+}
+
+/*Hover dataTable*/
+#tableServicios:hover {
+    cursor: pointer;
+}
